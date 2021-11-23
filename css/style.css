@@ -109,3 +109,11 @@ span{
 .img{
   align-items: center;
 }
+
+footer{
+  text-align: center;
+  padding: 3px;
+  background-color: black;
+  color: white;
+  font-weight: 900;
+}
